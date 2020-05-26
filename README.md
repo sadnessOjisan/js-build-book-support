@@ -17,4 +17,7 @@ $ npx storybook
 
 # run test
 $ npx jest
+
+# lint
+npx eslint 'src/**/*.{ts,tsx}'
 ```
