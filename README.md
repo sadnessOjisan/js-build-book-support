@@ -14,4 +14,7 @@ $ npx start-storybook
 
 # build-storybook
 $ npx storybook
+
+# run test
+$ npx jest
 ```
