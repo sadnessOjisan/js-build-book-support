@@ -3,6 +3,11 @@
 環境構築本のサンプルレポジトリ
 
 ```
+# package install
+npm install
+```
+
+```
 # start
 $ npx webpack-dev-server
 
@@ -20,4 +25,7 @@ $ npx jest
 
 # lint
 npx eslint 'src/**/*.{ts,tsx}'
+
+# format
+npx prettier --write './src/**/*.{js,ts,tsx}'
 ```
